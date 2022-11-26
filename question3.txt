@@ -1,0 +1,4 @@
+1. To find past commands
+2. ls -a
+3. I did unix imn my 3rd semester i can do it
+4. No
